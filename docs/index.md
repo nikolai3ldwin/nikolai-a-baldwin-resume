@@ -94,19 +94,19 @@ Summa Cum Laude 4.0 GPA
 ### University STEM Tutor
 
 `2021 - 2022`
-**Database Lab Director**, BYUI
+**Database Lab Director**, BYUI <br>
 `2020 - 2021`
-**Statistics Tutor**, BYUI
+**Statistics Tutor**, BYUI <br>
 `2020 - 2021`
-**Coding Tutor**, BYUI
+**Coding Tutor**, BYUI <br>
 `2020 - 2021`
-**Cybersecurity Instructor**, BYUI
+**Cybersecurity Instructor**, BYUI <br>
 
 ## Certifications
 
-• QPR Institute: Suicide Prevention | `(June 18, 2022 - June 18, 2024)`
-• Basic Technology: Digital Forensics & Cyber Triage | `(2020 - No Expiration)`
-• Google: IT Support & Cybersecurity | `(2019 - No Expiration)`
+• QPR Institute: Suicide Prevention | `(June 18, 2022 - June 18, 2024)` <br>
+• Basic Technology: Digital Forensics & Cyber Triage | `(2020 - No Expiration)` <br>
+• Google: IT Support & Cybersecurity | `(2019 - No Expiration)` <br>
 
 ## Clearance
 
