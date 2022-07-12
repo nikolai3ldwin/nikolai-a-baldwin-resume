@@ -20,7 +20,7 @@ Clearance: **Top Secret - SCI** <br>
 
 ## Education
 
-`September 2020 - June 2022`
+`September 2020 - June 2022` <br>
 **Brigham Young University**, Rexburg, ID
 Summa Cum Laude 3.93 GPA
 
@@ -64,14 +64,14 @@ Summa Cum Laude 4.0 GPA
 
 ### Data Science Consulting Team
 
-`September 2021 - April 2022`
+`September 2021 - April 2022` <br>
 **Beehive Federal Credit Union**
 
 - Web scraped phone locations of POI & created heat-maps of populous
 - Utilized R code, Python, and Tableau to create dashboards & data visualization for client
 - Determined the location of a new credit union location to best serve the POI
 
-`April 2027 - July 2027`
+`April 2027 - July 2027` <br>
 **Pinnacle Management Group**,
 
 - Proof of concept development of dashboards using client's corporate data.
@@ -104,13 +104,13 @@ Summa Cum Laude 4.0 GPA
 
 ## Certifications
 
-• QPR Institute: Suicide Prevention `(June 18, 2022 - June 18, 2024)`
-• Basic Technology: Digital Forensics & Cyber Triage `(2020 - No Expiration)`
-• Google: IT Support & Cybersecurity `(2019 - No Expiration)`
+• QPR Institute: Suicide Prevention | `(June 18, 2022 - June 18, 2024)`
+• Basic Technology: Digital Forensics & Cyber Triage | `(2020 - No Expiration)`
+• Google: IT Support & Cybersecurity | `(2019 - No Expiration)`
 
 ## Clearance
 
-• Top Secret - SCI `(March 2020 - March 2026)`
+• **Top Secret - SCI** | `(March 2020 - March 2026)`
 
 <!-- ### Footer
 
