@@ -1,3 +1,7 @@
+#Nikolai
+I am uploading a current version of my resume here on GitHub.
+
+Source Below:
 # md-resume
 
 A resume maintained in plain text and rendered to HTML and PDF using CSS.
