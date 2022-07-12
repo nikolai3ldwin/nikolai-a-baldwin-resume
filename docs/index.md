@@ -5,8 +5,9 @@ Title: Nikolai A. Baldwin's Resume
 
 # Nikolai A. Baldwin
 
-Clearance: Top Secret - SCI <br>
-A data analyst with research topics in data science, business, statistics, virtual reality, civil affairs, psychological operations, behavioral psychology, & business psychology.
+Clearance: **Top Secret - SCI** <br>
+
+<i>A data analyst with research topics in data science, business, statistics, virtual reality, civil affairs, psychological operations, behavioral psychology, & business psychology.</i>
 
 <div id="webaddress">
 <a href="baldwin.nikolai@gmail.com">baldwin.nikolai@gmail.com</a>
