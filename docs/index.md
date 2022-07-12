@@ -27,7 +27,7 @@ Summa Cum Laude 3.93 GPA
 - Minor: Statistics
 - Emphasis: Data Science
 
-`January 2020 - August 2020`
+`January 2020 - August 2020` <br>
 **Brigham Young University**, Rexburg, ID
 Summa Cum Laude 4.0 GPA
 
@@ -36,26 +36,27 @@ Summa Cum Laude 4.0 GPA
 
 ## Related Experience
 
-`March 2022 - Present`
-Strategic Marketing Business Analyst | **Soapbox Agency** | Rexburg, ID
+`March 2022 - Present` <br>
+<u><i>Strategic Marketing Business Analyst</i> | **Soapbox Agency** | Rexburg, ID</u>
 <br>• Analyzing market data, creating & executing surveys via Qualtrics Suite for in house market research
 <br>• Analyzing data via live-updating employing pivot tables, sparklines, & regressions to make predictions for projects' ROI
 <br>• Directing marketing campaigns with research leveraging SQL, Python, R, Excel, & key word searches
 
-`September 2021 - Present`
-Research Assistant | **Brigham Young University - Idaho** | Rexburg, ID
+`September 2021 - Present` <br>
+<u><i>Research Assistant</i> | **Brigham Young University** | Rexburg, ID</u>
 <br>• Replicated Johns et al. (2005) "Effect of Stereotype Threat on Performance" - University of Vienna - Administering tests to 300 participants; Presented findings at RCW & IPA conferences, to be published in the APS journals
 <br>• Effect of Virtual Reality on Education - BYUI - Proposed a research design. Executed a literary review of 100 articles, & presently designing methodology for a team to conduct research beginning in September of 2022
 <br>• Effect of Reddit on Workplace Discontent - Kennesaw State University - Web scraping JSON files from Reddit to then be converted utilizing Python & recursion to a data frame, then utilizing machine learning to conduct sentiment analysis
 <br>• Designed Industrial Organization Work Game - BYUI - used for training team building for 100+ students
 
-`March 2020 - Present`
-Civil Affairs Analyst | **United States Army** | Salt Lake City, UT
+`March 2020 - Present` <br>
+<u><i>Civil Affairs Analyst</i> | **United States Army** | Salt Lake City, UT</u>
 <br>• Coordinated to run "Panther Strike" a joint training operation for 300+ soldiers in the Army Reserves & National Guard
 <br>• Presented operations to high-ranking officials, ambassadors, & audiences of 50+
 <br>• Planned operations for disaster relief for 100+ soldiers
 
-Cybersecurity Business Analyst | **Aurenav LLC** | Stockholm, Sweden `March 2020 - September 2021`
+`March 2020 - September 2021` <br>
+<u><i>Cybersecurity Business Analyst</i> | **Aurenav LLC** | Stockholm, Sweden</u>
 <br>• Led the SOHO security project research, wrote business proposals, & oversaw deployment for clients in 65 countries
 <br>• Utilized SIEM, conducted pentesting methods with Linux, & led a team tasked with improving security protocols
 <br>• Managed Virtual Reality Office & Virtual Reality Partner/Client Meeting initiative in 2 countries
