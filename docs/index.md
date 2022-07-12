@@ -9,7 +9,7 @@ Clearance: Top Secret - SCI
 A data analyst with research topics in data science, business, statistics, virtual reality, civil affairs, psychological operations, behavioral psychology, & business psychology.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="baldwin.nikolai@gmail.com">baldwin.nikolai@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://linkedin.com/in/nikolai-a-baldwin">LinkedIn</a>
 | <a href="https://github.com/nikolai3ldwin">GitHub</a>
@@ -20,15 +20,15 @@ A data analyst with research topics in data science, business, statistics, virtu
 ## Education
 
 `September 2020 - June 2022`
-**Brigham Young University - Idaho**, Rexburg, ID
+**Brigham Young University**, Rexburg, ID
 Summa Cum Laude 3.93 GPA
 
-- Bachelor's of Science: Industrial Organization Psychology
+- Bachelor's of Science: <a href="https://www.byui.edu/majors/psychology-industrial-organizational-emphasis#:~:text=The%20Industrial%20Organizational%20Psychology%20emphasis%20is%20multidisciplinary.,and%20increase%20employee%20organizational%20health.">Industrial Organization Psychology</a>
 - Minor: Statistics
 - Emphasis: Data Science
 
 `January 2020 - August 2020`
-**Brigham Young University - Idaho**, Rexburg, ID
+**Brigham Young University**, Rexburg, ID
 Summa Cum Laude 4.0 GPA
 
 - Associate's of Science: Computer Science
@@ -38,26 +38,27 @@ Summa Cum Laude 4.0 GPA
 
 `March 2022 - Present`
 Strategic Marketing Business Analyst | **Soapbox Agency** | Rexburg, ID
-• Analyzing market data, creating & executing surveys via Qualtrics Suite for in house market research
-• Analyzing data via live-updating employing pivot tables, sparklines, & regressions to make predictions for projects' ROI
-• Directing marketing campaigns with research leveraging SQL, Python, R, Excel, & key word searches
+<br>• Analyzing market data, creating & executing surveys via Qualtrics Suite for in house market research
+<br>• Analyzing data via live-updating employing pivot tables, sparklines, & regressions to make predictions for projects' ROI
+<br>• Directing marketing campaigns with research leveraging SQL, Python, R, Excel, & key word searches
 
 `September 2021 - Present`
 Research Assistant | **Brigham Young University - Idaho** | Rexburg, ID
-• Replicated Johns et al. (2005) "Effect of Stereotype Threat on Performance" - University of Vienna - Administering tests to 300 participants; Presented findings at RCW & IPA conferences, to be published in the APS journals
-• Effect of Virtual Reality on Education - BYUI - Proposed a research design. Executed a literary review of 100 articles, & presently designing methodology for a team to conduct research beginning in September of 2022
-• Effect of Reddit on Workplace Discontent - Kennesaw State University - Web scraping JSON files from Reddit to then be converted utilizing Python & recursion to a data frame, then utilizing machine learning to conduct sentiment analysis
-• Designed Industrial Organization Work Game - BYUI - used for training team building for 100+ students
+<br>• Replicated Johns et al. (2005) "Effect of Stereotype Threat on Performance" - University of Vienna - Administering tests to 300 participants; Presented findings at RCW & IPA conferences, to be published in the APS journals
+<br>• Effect of Virtual Reality on Education - BYUI - Proposed a research design. Executed a literary review of 100 articles, & presently designing methodology for a team to conduct research beginning in September of 2022
+<br>• Effect of Reddit on Workplace Discontent - Kennesaw State University - Web scraping JSON files from Reddit to then be converted utilizing Python & recursion to a data frame, then utilizing machine learning to conduct sentiment analysis
+<br>• Designed Industrial Organization Work Game - BYUI - used for training team building for 100+ students
+
 `March 2020 - Present`
 Civil Affairs Analyst | **United States Army** | Salt Lake City, UT
-• Coordinated to run "Panther Strike" a joint training operation for 300+ soldiers in the Army Reserves & National Guard
-• Presented operations to high-ranking officials, ambassadors, & audiences of 50+
-• Planned operations for disaster relief for 100+ soldiers
+<br>• Coordinated to run "Panther Strike" a joint training operation for 300+ soldiers in the Army Reserves & National Guard
+<br>• Presented operations to high-ranking officials, ambassadors, & audiences of 50+
+<br>• Planned operations for disaster relief for 100+ soldiers
 
 Cybersecurity Business Analyst | **Aurenav LLC** | Stockholm, Sweden `March 2020 - September 2021`
-• Led the SOHO security project research, wrote business proposals, & oversaw deployment for clients in 65 countries
-• Utilized SIEM, conducted pentesting methods with Linux, & led a team tasked with improving security protocols
-• Managed Virtual Reality Office & Virtual Reality Partner/Client Meeting initiative in 2 countries
+<br>• Led the SOHO security project research, wrote business proposals, & oversaw deployment for clients in 65 countries
+<br>• Utilized SIEM, conducted pentesting methods with Linux, & led a team tasked with improving security protocols
+<br>• Managed Virtual Reality Office & Virtual Reality Partner/Client Meeting initiative in 2 countries
 
 ### Data Science Consulting Team
 
