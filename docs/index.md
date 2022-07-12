@@ -1,11 +1,11 @@
 ---
-layout: cv
-title: Nikolai Baldwin's Resume
+Layout: CV
+Title: Nikolai A. Baldwin's Resume
 ---
 
 # Nikolai A. Baldwin
 
-Clearance: Top Secret - SCI
+Clearance: Top Secret - SCI <br>
 A data analyst with research topics in data science, business, statistics, virtual reality, civil affairs, psychological operations, behavioral psychology, & business psychology.
 
 <div id="webaddress">
